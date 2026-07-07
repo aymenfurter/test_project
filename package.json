@@ -1,0 +1,13 @@
+{
+  "name": "sketch-calculator",
+  "version": "1.0.0",
+  "description": "Sample flawed calculator used for PR testing",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "jest": "^29.7.0"
+  }
+}
